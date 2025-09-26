@@ -1,0 +1,19 @@
+{
+  "name": "fhi_dupaj_rep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miskordd/FHI_Dupaj_rep.git"
+  },
+  "author": "dupaj matej",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Miskordd/FHI_Dupaj_rep/issues"
+  },
+  "homepage": "https://github.com/Miskordd/FHI_Dupaj_rep#readme"
+}
